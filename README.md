@@ -1,1 +1,1 @@
-# graphical-model-using-tkinter
+# pong game using pygame
